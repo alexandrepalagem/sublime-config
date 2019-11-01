@@ -1,0 +1,46 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"file_exclude_patterns":
+	[
+		"*.pyo",
+		"*.dylib",
+		"npm-debug.log",
+		"*.obj",
+		"*.a",
+		"*.o",
+		"*.idb",
+		"*.sdf",
+		"*.lib",
+		"*.psd",
+		"*.sublime-workspace",
+		"*.pdb",
+		"*.so",
+		"*.class",
+		".DS_Store",
+		"*.exe",
+		"*.pyc",
+		"*.suo",
+		"*.dll",
+		"*.min.js",
+		"*.ncb",
+		"*.db"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		".hg",
+		"node_modules",
+		"build",
+		"Pods",
+		"CVS",
+		"docs",
+		"bower_components",
+		".svn"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray.sublime-theme"
+}

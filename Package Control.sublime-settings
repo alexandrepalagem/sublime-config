@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"Babel",
+		"Color Highlight",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"Emmet",
+		"JsPrettier",
+		"Package Control",
+		"react-native-css-snippets",
+		"react-native-snippets",
+		"SideBarEnhancements",
+		"Theme - Spacegray",
+		"ToggleExclude"
+	]
+}
